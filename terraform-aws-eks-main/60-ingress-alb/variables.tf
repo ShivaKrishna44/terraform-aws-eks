@@ -16,9 +16,9 @@ variable "common_tags" {
 
 
 variable "zone_id" {
-    default = "Z021448929NMXW4P65UQE"
+    default = "Z10366773K51S184GSJVZ"
 }
 
 variable "domain_name" {
-    default = "daws82s.online"
+    default = "vosukula.online"
 }
