@@ -3,4 +3,8 @@
 *.tfstate.backup
 .terraform.lock.hcl
 *.exe
+.tar.gz
+# Block compiled binaries and tar packages
+kubectl
+*.tar.gz
 
